@@ -1,4 +1,4 @@
----
+[EEaula23.pdf](https://github.com/user-attachments/files/35251282/EEaula23.pdf)---
 title: "Introdução à Estatística Experimental"
 layout: single
 permalink: /teaching/estatistica-experimental/
@@ -9,8 +9,11 @@ Esta página reúne os materiais da disciplina Introdução à Estatística Expe
 
 ## Aulas
 
-Os materiais das aulas serão disponibilizados nesta seção.
+* **Aula 23 – Testes de Hipótese - Ideias básicas e testes para a média de uma população normal (Parte I):** [slides][EEaula23.pdf](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
 
+)
+
+* 
 ## Orientações para resolução e registro no portfólio
 
 A atividade deverá ser realizada individualmente. Cada estudante deverá resolver o Exercício 1, contemplando todos os itens de (a) a (e), da lista correspondente ao seu curso.
