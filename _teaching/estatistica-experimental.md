@@ -7,7 +7,7 @@ permalink: /teaching/estatistica-experimental/
 author_profile: true
 ---
 
-# Introdução à Estatística Experimental
+Esta página reúne os materiais da disciplina Introdução à Estatística Experimental.
 
 ## Aulas
 
