@@ -121,7 +121,6 @@ O estudante é responsável pelas respostas apresentadas, independentemente de t
 * [Lista 23 – Engenharia de Materiais][lista_engenharia_materiais.pdf](https://github.com/user-attachments/files/35251178/lista_engenharia_materiais.pdf)
 
 
-
 ### Engenharia Mecânica
 
 * [Lista 23 – Engenharia Mecânica] [lista_engenharia_mecanica.pdf](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
