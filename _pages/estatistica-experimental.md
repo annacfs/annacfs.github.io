@@ -1,3 +1,4 @@
+---
 title: "Introdução à Estatística Experimental"
 layout: single
 permalink: /teaching/estatistica-experimental/
@@ -8,7 +9,7 @@ Esta página reúne os materiais da disciplina Introdução à Estatística Expe
 
 ## Aulas
 
-* **Aula 23 – Testes de Hipótese - Ideias básicas e testes para a média de uma população normal (Parte I):** [slides][EEaula23.pdf](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
+* **Aula 23 – Testes de Hipótese: ideias básicas e testes para a média de uma população normal (Parte I):** [slides](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
 
 ## Listas de exercícios
 
@@ -20,7 +21,6 @@ Esta página reúne os materiais da disciplina Introdução à Estatística Expe
 
 * [Lista 23 – Engenharia Mecânica](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
 
- 
 ## Orientações para resolução e registro no portfólio
 
 A atividade deverá ser realizada individualmente. Cada estudante deverá resolver o Exercício 1, contemplando todos os itens de (a) a (e), da lista correspondente ao seu curso.
@@ -63,5 +63,3 @@ Ao final, escreva um breve parágrafo indicando a principal dificuldade encontra
 O estudante é responsável pelas respostas apresentadas, independentemente de ter utilizado ou não ferramentas de inteligência artificial.
 
 **Referência normativa:** [Resolução CNE/CP nº 1, de 11 de novembro de 2026 – Diretrizes para a Utilização da Inteligência Artificial na Educação](https://abmes.org.br/arquivos/legislacoes/legislacoes-2026-11-12-369a065e.pdf).
-
-
