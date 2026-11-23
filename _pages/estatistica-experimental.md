@@ -1,4 +1,3 @@
-[EEaula23.pdf](https://github.com/user-attachments/files/35251282/EEaula23.pdf)---
 title: "Introdução à Estatística Experimental"
 layout: single
 permalink: /teaching/estatistica-experimental/
@@ -11,9 +10,17 @@ Esta página reúne os materiais da disciplina Introdução à Estatística Expe
 
 * **Aula 23 – Testes de Hipótese - Ideias básicas e testes para a média de uma população normal (Parte I):** [slides][EEaula23.pdf](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
 
-)
+## Listas de exercícios
 
-* 
+### Engenharia de Materiais
+
+* [Lista 23 – Engenharia de Materiais](https://github.com/user-attachments/files/35251178/lista_engenharia_materiais.pdf)
+
+### Engenharia Mecânica
+
+* [Lista 23 – Engenharia Mecânica](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
+
+ 
 ## Orientações para resolução e registro no portfólio
 
 A atividade deverá ser realizada individualmente. Cada estudante deverá resolver o Exercício 1, contemplando todos os itens de (a) a (e), da lista correspondente ao seu curso.
@@ -57,12 +64,4 @@ O estudante é responsável pelas respostas apresentadas, independentemente de t
 
 **Referência normativa:** [Resolução CNE/CP nº 1, de 11 de novembro de 2026 – Diretrizes para a Utilização da Inteligência Artificial na Educação](https://abmes.org.br/arquivos/legislacoes/legislacoes-2026-11-12-369a065e.pdf).
 
-## Listas de exercícios
 
-### Engenharia de Materiais
-
-* [Lista 23 – Engenharia de Materiais](https://github.com/user-attachments/files/35251178/lista_engenharia_materiais.pdf)
-
-### Engenharia Mecânica
-
-* [Lista 23 – Engenharia Mecânica](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
