@@ -58,72 +58,8 @@ O estudante é responsável pelas respostas apresentadas, independentemente de t
 
 ### Engenharia de Materiais
 
-* [Lista 23 – Engenharia de Materiais]---
-title: "Introdução à Estatística Experimental"
-layout: single
-permalink: /teaching/estatistica-experimental/
-author_profile: true
----
-
-Esta página reúne os materiais da disciplina Introdução à Estatística Experimental.
-
-## Aulas
-
-Os materiais das aulas serão disponibilizados nesta seção.
-
-## Orientações para resolução e registro no portfólio
-
-A atividade deverá ser realizada individualmente. Cada estudante deverá resolver o Exercício 1, contemplando todos os itens de (a) a (e), da lista correspondente ao seu curso.
-
-A resolução deverá ser manuscrita e entregue no início da próxima aula, para compor o portfólio de aprendizagem. O Exercício 2 será destinado à fixação dos conteúdos e não precisará ser entregue. Não será necessário copiar os enunciados.
-
-### 1. Resolução inicial
-
-Antes de consultar ferramentas de inteligência artificial (IA), registre sua tentativa de resolução, apresentando os procedimentos utilizados, as justificativas e as eventuais dúvidas encontradas.
-
-### 2. Utilização de inteligência artificial
-
-Conforme acordado no início do semestre, é permitido utilizar ferramentas de IA como apoio à aprendizagem. Seu uso é opcional e não implicará penalização.
-
-Caso utilize IA, informe o nome da ferramenta, a data e a finalidade da consulta. Não será necessário transcrever os prompts ou imprimir as respostas. Recomenda-se preservar o histórico digital das interações para consulta posterior.
-
-### 3. Registro da participação da IA
-
-Identifique, em cada item resolvido, como a IA participou da elaboração da resposta, utilizando uma das seguintes classificações:
-
-* **Meu:** resolvido sem auxílio da IA.
-* **Aceito:** sugestão da IA utilizada sem modificações, após verificação.
-* **Modificado:** sugestão da IA utilizada com alterações.
-* **Recusado:** sugestão da IA não utilizada.
-
-Quando houver participação da IA, explique brevemente o motivo de sua decisão.
-
-### 4. Análise crítica e resolução final
-
-Apresente sua resolução final, explicando os passos utilizados e justificando as conclusões com base nos conceitos estudados em aula.
-
-Caso tenha consultado a IA, compare as sugestões recebidas com sua resolução inicial. Indique se concordou ou discordou das informações apresentadas, identifique eventuais erros ou limitações e explique como verificou a resposta e quais alterações realizou.
-
-### 5. Registro da aprendizagem
-
-Ao final, escreva um breve parágrafo indicando a principal dificuldade encontrada, como procurou resolvê-la e o que compreendeu após realizar a atividade.
-
-**Avaliação:** serão considerados a compreensão dos conceitos estatísticos, a coerência das justificativas, a interpretação dos erros dos tipos I e II, a análise crítica das informações consultadas e a clareza do processo de resolução.
-
-O estudante é responsável pelas respostas apresentadas, independentemente de ter utilizado ou não ferramentas de inteligência artificial.
-
-**Referência normativa:** [Resolução CNE/CP nº 1, de 11 de novembro de 2026 – Diretrizes para a Utilização da Inteligência Artificial na Educação](https://abmes.org.br/arquivos/legislacoes/legislacoes-2026-11-12-369a065e.pdf).
-
-## Listas de exercícios
-
-### Engenharia de Materiais
-
-* [Lista 23 – Engenharia de Materiais][lista_engenharia_materiais.pdf](https://github.com/user-attachments/files/35251178/lista_engenharia_materiais.pdf)
-
+* [Lista 23 – Engenharia de Materiais](https://github.com/user-attachments/files/35251178/lista_engenharia_materiais.pdf)
 
 ### Engenharia Mecânica
 
-* [Lista 23 – Engenharia Mecânica] [lista_engenharia_mecanica.pdf](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
-
-
- 
+* [Lista 23 – Engenharia Mecânica](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
