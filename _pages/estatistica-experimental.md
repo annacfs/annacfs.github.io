@@ -9,29 +9,23 @@ author_profile: true
 
 ### Aula 23 — Introdução aos testes de hipóteses
 Conceitos de hipótese nula e alternativa, distribuição amostral da média de uma população normal, etapas de um teste de hipóteses, regra de decisão e região crítica. Introdução aos erros dos tipos I e II, com aplicação a um problema de identificação da origem de um lote de parafusos.
-
 * **Material:** Testes de Hipótese: ideias básicas e testes para a média de uma população normal (Parte I):  [slides](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
  
-
 ### Aula 24 — Probabilidades dos erros e nível de significância
 Cálculo das probabilidades dos erros dos tipos I e II (α e β), nível de significância e construção da região crítica de um teste de hipóteses.
 * **Material:** Testes de Hipótese: ideias básicas e testes para a média de uma população normal (Parte II) — será disponibilizado após a aula.
 
-
 ## Listas de exercícios
 
 ### Engenharia de Materiais
-
 * [Lista 23 – Engenharia de Materiais](https://github.com/user-attachments/files/35251178/lista_engenharia_materiais.pdf)
 
 ### Engenharia Mecânica
-
 * [Lista 23 – Engenharia Mecânica](https://github.com/user-attachments/files/35251173/lista_engenharia_mecanica.pdf)
 
 ## Orientações para resolução e registro no portfólio
 
 A atividade deverá ser realizada individualmente.  
-
 A resolução deverá ser manuscrita e entregue no início da próxima aula, para compor o portfólio de aprendizagem. 
 
 ### 1. Resolução inicial
