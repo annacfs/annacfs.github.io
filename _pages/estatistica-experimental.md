@@ -5,8 +5,6 @@ permalink: /teaching/estatistica-experimental/
 author_profile: true
 ---
 
-Esta página reúne os materiais da disciplina Introdução à Estatística Experimental.
-
 ## Aulas
 
 * **Aula 23 – Testes de Hipótese: ideias básicas e testes para a média de uma população normal (Parte I):** [slides](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
