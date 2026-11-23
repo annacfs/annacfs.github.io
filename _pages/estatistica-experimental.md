@@ -21,9 +21,9 @@ author_profile: true
 
 ## Orientações para resolução e registro no portfólio
 
-A atividade deverá ser realizada individualmente. Cada estudante deverá resolver o Exercício 1, contemplando todos os itens de (a) a (e), da lista correspondente ao seu curso.
+A atividade deverá ser realizada individualmente.  
 
-A resolução deverá ser manuscrita e entregue no início da próxima aula, para compor o portfólio de aprendizagem. O Exercício 2 será destinado à fixação dos conteúdos e não precisará ser entregue. Não será necessário copiar os enunciados.
+A resolução deverá ser manuscrita e entregue no início da próxima aula, para compor o portfólio de aprendizagem. 
 
 ### 1. Resolução inicial
 
@@ -55,8 +55,6 @@ Caso tenha consultado a IA, compare as sugestões recebidas com sua resolução 
 ### 5. Registro da aprendizagem
 
 Ao final, escreva um breve parágrafo indicando a principal dificuldade encontrada, como procurou resolvê-la e o que compreendeu após realizar a atividade.
-
-**Avaliação:** serão considerados a compreensão dos conceitos estatísticos, a coerência das justificativas, a interpretação dos erros dos tipos I e II, a análise crítica das informações consultadas e a clareza do processo de resolução.
 
 O estudante é responsável pelas respostas apresentadas, independentemente de ter utilizado ou não ferramentas de inteligência artificial.
 
