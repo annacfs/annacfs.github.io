@@ -9,7 +9,8 @@ author_profile: true
 
 ### Aula 23 — Introdução aos testes de hipóteses
 Conceitos de hipótese nula e alternativa, distribuição amostral da média de uma população normal, etapas de um teste de hipóteses, regra de decisão e região crítica. Introdução aos erros dos tipos I e II, com aplicação a um problema de identificação da origem de um lote de parafusos.
-* **Material:** Testes de Hipótese: ideias básicas e testes para a média de uma população normal (Parte I):  [slides](https://github.com/user-attachments/files/35251290/EEaula23.pdf)
+* **Material:** Testes de Hipótese: ideias básicas e testes para a média de uma população normal (Parte I):  [slides] [aula23-ufscar.pdf](https://github.com/user-attachments/files/35313595/aula23-ufscar.pdf)
+
  
 ### Aula 24 — Probabilidades dos erros e nível de significância
 Cálculo das probabilidades dos erros dos tipos I e II (α e β), nível de significância e construção da região crítica de um teste de hipóteses.
